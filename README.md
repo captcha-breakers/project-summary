@@ -10,5 +10,8 @@
 ## Report
  - [ES654 Project Report](ES654_solving_captchas_report.pdf)
 
+## Presentation video
+ - [ES654 Project Presentation Video](https://youtu.be/02cp9T3avic)
+
 ## Presentation
  - [ES654 Project Presentation](final_phase_presentation.pdf)
